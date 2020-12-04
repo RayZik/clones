@@ -1,0 +1,7 @@
+{
+  "name": "React Sample",
+  "description": "React",
+  "repository": "https://github.com/RayZik/clones/tree/master/messenger",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["react"]
+}
